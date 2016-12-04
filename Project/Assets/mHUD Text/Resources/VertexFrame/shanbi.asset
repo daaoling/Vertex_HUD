@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3376c3422c6c774eb8af20ee5317207, type: 3}
+  m_Name: shanbi
+  m_EditorClassIdentifier: 
+  x_offsetCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  y_offsetCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 31.8961563
+      outSlope: 31.8961563
+      tangentMode: 0
+    - time: .201690942
+      value: 5.5019412
+      inSlope: 12.0450535
+      outSlope: 12.0450535
+      tangentMode: 0
+    - time: .40107885
+      value: 6.64001465
+      inSlope: 1.84913254
+      outSlope: 1.84913254
+      tangentMode: 0
+    - time: .600953162
+      value: 6.94778681
+      inSlope: 1.62870598
+      outSlope: 1.62870598
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  x_scaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  y_scaleCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  alphaCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: .000646159984
+      value: .401423007
+      inSlope: 5.04782963
+      outSlope: 5.04782963
+      tangentMode: 0
+    - time: .11759112
+      value: .947847903
+      inSlope: .589429617
+      outSlope: .589429617
+      tangentMode: 0
+    - time: .396890044
+      value: .991128504
+      inSlope: .145056039
+      outSlope: .145056039
+      tangentMode: 0
+    - time: .601858616
+      value: .00368830562
+      inSlope: -1.81183445
+      outSlope: -1.81183445
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  timePoint:
+  - 0
+  - .200000003
+  - .400000006
+  - .600000024
+  width: 4
+  height: 2
