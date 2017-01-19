@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/mHUD Text/Resources/Shader/VertexAnimation.shader">
+    <Files>
+      <File FileName="Assets/mHUD Text/Scripts/mPopEntryManagerV2.cs" Line="1" Column="1" />
+      <File FileName="Assets/mHUD Text/Scripts/mPopEntryV2.cs" Line="81" Column="31" />
+      <File FileName="Assets/mHUD Text/Scripts/V2Info/sinlePop_Meta_Info.cs" Line="42" Column="5" />
+      <File FileName="Assets/mHUD Text/Resources/Shader/VertexAnimation.shader" Line="93" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
